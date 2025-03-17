@@ -22,23 +22,16 @@
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alissontfraga/" alt="Instagram"/></a>
 
   ### 🐱‍🏍Estatísticas
-  <table>
-  <tr>
-    <td>
       <img
         align="left"
         src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=synthwave"
-        alt="Github Stats"
-      />
-    </td>
-    <td>
+        alt="Github Stats" />
+      
+  
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissontraga&theme=synthwave&layout=compact"
-        alt="Github Stats"
-      />
-    </td>
-  </tr>
-</table>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissontfraga&theme=synthwave&layout=compact"
+        alt="Github Stats" />
+   
 
     
