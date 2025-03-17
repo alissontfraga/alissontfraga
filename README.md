@@ -27,7 +27,7 @@
     <td>
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&theme=synthwave&include_all_commits=true"
+        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=synthwave"
         alt="Github Stats"
       />
     </td>
