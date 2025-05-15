@@ -7,7 +7,7 @@
   <p align="left">
 
    ### 🐱‍👤 Conhecimentos: 
-   <p>JavaScript, CSS, HTML, Git, Github, Inglês.</p>
+   <p>Java, JavaScript, CSS, HTML, Git, Github, Inglês.</p>
 </p>
 
 ### 🐱‍🚀Contato
