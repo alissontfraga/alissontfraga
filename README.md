@@ -1,5 +1,4 @@
 # Alisson Teles Fraga
-**`Front-End Developer`**
 
  
   <p align="left"> 
