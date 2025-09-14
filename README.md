@@ -3,11 +3,11 @@
 
  
   <p align="left"> 
-  🐱‍💻 Me chamo Alisson Teles Fraga, estou cursando  Engenharia de Software e estou atuando como <strong>Front-End Developer</strong>. 
+  🐱‍💻 Me chamo Alisson Teles Fraga, e estou cursando Engenharia de Software</strong>. 
   <p align="left">
 
    ### 🐱‍👤 Conhecimentos: 
-   <p>Java, JavaScript, CSS, HTML, Git, Github, Inglês.</p>
+   <p>Java, React, JavaScript, C++, C, CSS, HTML, Git, Github, Inglês.</p>
 </p>
 
 ### 🐱‍🚀Contato
@@ -25,13 +25,13 @@
 
    <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=synthwave"
+        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=midnight-purple"
         alt="Github Stats" /> 
       
   
    <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissontfraga&theme=synthwave&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissontfraga&theme=midnight-purple&layout=compact"
         alt="Github Stats" />
    
 
