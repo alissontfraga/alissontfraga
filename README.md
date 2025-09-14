@@ -3,7 +3,7 @@
 
  
   <p align="left"> 
-  🐱‍💻 Me chamo Alisson Teles Fraga, e estou cursando Engenharia de Software</strong>. 
+  🐱‍💻Estudando Engenharia de Software desde Dezembro de 2024.</strong>. 
   <p align="left">
 
    ### 🐱‍👤 Conhecimentos: 
