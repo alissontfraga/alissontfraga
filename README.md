@@ -6,7 +6,7 @@
   <p align="left">
 
    ### 🐱‍👤 Conhecimentos: 
-   <p>Java, React, JavaScript, C++, C, CSS, HTML, Git, Github, Inglês.</p>
+   <p>Java, React, JavaScript, C++, C, CSS, HTML, Git, Github, AWS Cloud, SQL, Spring, Inglês.</p>
 </p>
 
 ### 🐱‍🚀Contato
