@@ -22,12 +22,14 @@
 
   ### 🐱‍🏍Estatísticas
    <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=midnight-purple"
+        height=200
+        align="center"
+        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=midnight-purple&rank_icon=github"
         alt="Github Stats" /> 
   <br>
    <img
-        align="left"
+        height=200
+        align="center"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=alissontfraga&theme=midnight-purple&layout=compact"
         alt="Github Stats" />
    
