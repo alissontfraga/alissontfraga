@@ -22,10 +22,7 @@
 
   ### 🐱‍🏍Estatísticas
 
-   <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api?username=alissontfraga&show_icons=true&theme=midnight-purple"
-        alt="Github Stats" /> 
+   
       
   <br>
    <img
