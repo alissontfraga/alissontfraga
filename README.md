@@ -1,9 +1,14 @@
-# Alisson Teles Fraga
+<h2 align="left">ALISSON TELES FRAGA</h2>
 
- 
-  <p align="left"> 
-  🐱‍💻Estudando Engenharia de Software desde Dezembro de 2024</strong>. 
-  <p align="left">
+###
+
+<img align="right" height="88" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5bHJjdGtzZHh0cjg1ZHp0ZHRnYXBraXZsY29qNmZrdnM2cDB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5RzZOHPgry80/giphy.gif"  />
+
+###
+<h2>Sobre</h2>
+<p align="left"><br>Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
+
+###
 
    ### 🐱‍👤 Conhecimentos: 
    <p>Java, React, JavaScript, C++, C, CSS, HTML, Git, Github, AWS Cloud, SQL, Spring, Inglês.</p>
