@@ -8,7 +8,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&text=Sobre%20mim&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
 
 <img align="right" height="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5bHJjdGtzZHh0cjg1ZHp0ZHRnYXBraXZsY29qNmZrdnM2cDB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5RzZOHPgry80/giphy.gif"  />
 
