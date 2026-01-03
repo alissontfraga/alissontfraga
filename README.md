@@ -24,7 +24,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&text=%20Linguagens,%20Frameworks%20e%20outros&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -44,7 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -52,7 +50,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&text=Redes%20Sociais%20e%20Contato&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/alissontelesfraga/" target="_blank">
