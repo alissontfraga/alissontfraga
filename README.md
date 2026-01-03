@@ -2,30 +2,49 @@
 
 ###
 
-<img align="right" height="88" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5bHJjdGtzZHh0cjg1ZHp0ZHRnYXBraXZsY29qNmZrdnM2cDB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5RzZOHPgry80/giphy.gif"  />
+<img align="right" height="90" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5bHJjdGtzZHh0cjg1ZHp0ZHRnYXBraXZsY29qNmZrdnM2cDB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5RzZOHPgry80/giphy.gif"  />
 
 ###
 
-<h3 align="left">👩‍💻 Sobre mim </h3>
-<p align="left">Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=32&section=header&reversal=false&text=Sobre%20mim&fontSize=32&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
 ###
 
-   ### 🐱‍👤 Conhecimentos: 
-   <p>Java, React, JavaScript, C++, C, CSS, HTML, Git, Github, AWS Cloud, SQL, Spring, Inglês.</p>
-</p>
+<p align="left">Sobre<br>Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
 
-### 🐱‍🚀Contato
+###
 
- <a href="mailto:alissontfraga@gmail.com" title="Gmail" target="_blank">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alissontfraga@gmail.com" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/alissontelesfraga/" title="LinkedIn" target="_blank">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissontelesfraga/" alt="LinkedIn"/></a>
-  <a href="https://wa.me/5575983702003" title="WhatsApp" target="_blank">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5575983702003" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/alissontfraga/" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alissontfraga/" alt="Instagram"/></a>
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=32&section=header&reversal=false&text=Redes%20Sociais%20e%20Contato&fontSize=32&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
 
+###
 
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+</div>
 
-    
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=32&section=header&reversal=false&text=Linguagens%20de%20programa%C3%A7%C3%A3o&fontSize=32&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
+
+###
