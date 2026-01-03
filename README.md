@@ -60,6 +60,8 @@
   <a href="https://wa.me/5575983702003" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
   </a>
+  Gmail: <a>alissontfraga@gmail.com</a>
+  Portfólio: <a>https://alissontfraga-portfolio.vercel.app/</a>
 </div>
 
 ###
