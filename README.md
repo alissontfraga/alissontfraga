@@ -42,9 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
 
-<br clear="both">
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&text=Redes%20Sociais%20e%20Contato&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
