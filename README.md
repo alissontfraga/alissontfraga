@@ -12,7 +12,33 @@
 
 ###
 
-<p align="left">Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
+<p align="left">Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end, como APIs, Portfólios, Landing Pages...</p>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&text=%20Linguagens,%20Frameworks%20e%20outros&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+</div>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+</div>
 
 ###
 
@@ -25,28 +51,15 @@
 ###
 
 <div align="left">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
-</div>
-
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=false&text=Linguagens%20de%20programa%C3%A7%C3%A3o&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=fadeIn&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <a href="https://www.linkedin.com/in/alissontelesfraga/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:alissontfraga@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  </a>
+  <a href="https://wa.me/5575983702003" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
