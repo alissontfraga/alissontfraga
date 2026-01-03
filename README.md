@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left">Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end, como APIs, Portfólios, Landing Pages...</p>
+<p align="left">Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, já atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end, como APIs, Portfólios, Landing Pages...</p>
 
 ###
 
