@@ -6,7 +6,8 @@
 
 ###
 
-<p align="left">### Sobre <br>Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
+<h3 align="left">👩‍💻 Sobre mim </h3>
+<p align="left">Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
 
 ###
 
