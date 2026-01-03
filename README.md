@@ -8,8 +8,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=true&text=About%20me&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=blink&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
-
 <img align="right" height="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5bHJjdGtzZHh0cjg1ZHp0ZHRnYXBraXZsY29qNmZrdnM2cDB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5RzZOHPgry80/giphy.gif"  />
 
 ###
@@ -24,7 +22,6 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=true&text=Languages,%20Frameworks%20and%20Tools&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=blink&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
@@ -44,7 +41,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
 </div>
 
-###
 
 <br clear="both">
 
@@ -52,24 +48,19 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=true&text=Contact%20me&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=blink&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
 </div>
 
-###
-
 <div align="left">
-  <a href="https://www.linkedin.com/in/alissontelesfraga/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:alissontfraga@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="gmail logo"  />
-  </a>
-  <a href="https://wa.me/5575983702003" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="whatsapp logo"  />
-  </a>
+<a href="mailto:alissontfraga@gmail.com" title="Gmail" target="_blank">
+  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:alissontfraga@gmail.com" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/alissontelesfraga/" title="LinkedIn" target="_blank">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissontelesfraga/" alt="LinkedIn"/></a>
+  <a href="https://wa.me/5575983702003" title="WhatsApp" target="_blank">
+  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5575983702003" alt="WhatsApp"/></a>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://count.getloli.com/@:alissontfraga?theme=minecraft&padding=5&scale=0.3&align=top&pixelated=1&darkmode=auto"  />
-</div>
+ <Strong>Portfolio:</Strong> ***https://alissontfraga-portfolio.vercel.app/***
+  <br>
+  <Strong>Email:</Strong> ***alissontfcontato2@gmail.com***
 
 ###
