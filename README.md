@@ -5,8 +5,8 @@
 <img align="right" height="88" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdWZ5bHJjdGtzZHh0cjg1ZHp0ZHRnYXBraXZsY29qNmZrdnM2cDB5bSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/c5RzZOHPgry80/giphy.gif"  />
 
 ###
-### Sobre
-<p align="left"><br>Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
+
+<p align="left">### Sobre <br>Comecei nessa jornada em Dezembro de 2024. Com 1 ano de experiência em Engenharia de Software, atuei em Projetos pessoais e acadêmicos, tanto Back-end quanto Front-end.</p>
 
 ###
 
