@@ -57,8 +57,6 @@
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alissontelesfraga/" alt="LinkedIn"/></a>
   <a href="https://wa.me/5575983702003" title="WhatsApp" target="_blank">
   <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5575983702003" alt="WhatsApp"/></a>
-  <a href="https://www.instagram.com/alissontfraga/" title="Instagram" target="_blank">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/alissontfraga/" alt="Instagram"/></a>
 </div>
 
 ###
