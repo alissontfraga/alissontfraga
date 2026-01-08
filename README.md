@@ -1,8 +1,4 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=48&section=header&reversal=false&text=ALISSON%20TELES%20FRAGA&fontSize=32&fontColor=4C4CED&fontAlign=50&fontAlignY=59&stroke=-&strokeWidth=0&animation=blink&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=171729"  />
-</div>
 
-###
 
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=20&section=header&reversal=true&text=About%20me&fontSize=20&fontColor=000&fontAlign=50&fontAlignY=57&stroke=-&strokeWidth=0&animation=blink&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
